@@ -2,6 +2,14 @@
 
 Demonstrates data binding properties of a class to grouped RadioButton controls.
 
+[Direct link](https://github.com/karenpayneoregon/data-binding-win-forms/tree/master/RadioButtonBinding)
+
+[TechNet article](https://social.technet.microsoft.com/wiki/contents/articles/54237.working-with-radiobuttons-win-forms-c.aspx)
+
+![screen](assets/Version2Form.png)
+
+![screen](assets/CategoryForm.png)
+
 ## Requires to run sample code
 
 - .NET Framework 4.8
@@ -22,11 +30,11 @@ Microsoft TechNet article  [Windows forms (C#): Data Binding ListBox/ComboBox](h
 
 #### Data binding
 
-![screen](../assets/GroupedRadioButtons.png)
+![screen](assets/GroupedRadioButtons.png)
 
 #### Dynamically created 
 
-![screen](../assets/DynamicRadioButtons.png)
+![screen](assets/DynamicRadioButtons.png)
 
 ```csharp
 using System.Collections.Generic;
